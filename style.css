@@ -1,0 +1,39 @@
+body {
+    font-family: cursive, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('WhatsApp Image 2025-04-23 at 21.46.58.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #333;
+    font-size: 20px;
+}
+
+header {
+    background-color: #ffc0cb; /* lighter pink */
+    color: #000;
+    padding: 1rem;
+    text-align: center;
+}
+
+header nav a {
+    margin: 0 1rem;
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+}
+
+header nav a:hover {
+    text-decoration: underline;
+}
+
+.hero {
+    text-align: center;
+    padding: 2rem;
+}
+
+.hero img {
+    max-width: 100%;
+    height: auto;
+}
